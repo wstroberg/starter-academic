@@ -20,7 +20,7 @@ bio: My research interests include computational biology, molecular simulation a
 
 interests:
 - Computational Biology
-- Particle-based Simulations
+- Simulation
 - Cell Biology
 
 education:
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigators
+- Principal Investigator
 ---
 
 Wylie Stroberg is an assistant professor of mechanical engineering at the University of Alberta. He leads the Computational Biosystems Lab, which develops computational and theoretical techniques for addressing questions in complex biological systems.
