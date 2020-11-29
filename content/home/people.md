@@ -1,8 +1,11 @@
 ---
 widget: people
 headless: true  # This file represents a page section.
+active: true    # Set true/false to make page active
 
 # ... Put Your Section Options Here (title etc.) ...
+
+title: "Meet the Team"
 
 content:
   # Choose which groups/teams of users to display.
