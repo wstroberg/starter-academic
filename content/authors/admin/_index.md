@@ -1,4 +1,6 @@
 ---
+author: wstroberg
+
 # Display name
 title: Wylie Stroberg
 
