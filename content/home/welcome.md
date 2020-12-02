@@ -1,11 +1,11 @@
 ---
 widget: blank
 headless: true
-active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+active: true  # Activate this widget? true/false
+weight: 15  # Order that this section will appear.
 
-title = "Computational Biosystems Lab"
-subtitle = ""
+title: "Computational Biosystems Lab"
+subtitle: ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
