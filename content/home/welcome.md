@@ -9,7 +9,7 @@ subtitle: ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns: "1"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -18,11 +18,11 @@ subtitle: ""
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color = "navy"
+  # color: "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start: "DarkGreen"
+  gradient_end: "ForestGreen"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
@@ -32,11 +32,11 @@ subtitle: ""
   # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light: true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "0", "20px", "0"]
+  # padding: ["20px", "0", "20px", "0"]
 
 ---
 ## Welcome
