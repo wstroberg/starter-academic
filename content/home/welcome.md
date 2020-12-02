@@ -1,4 +1,4 @@
----
++++
 widget: blank
 headless: true
 active: true  # Activate this widget? true/false
@@ -38,6 +38,6 @@ subtitle: ""
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
 
----
++++
 ## Welcome
 Welcome to the _Computational Biosystems Lab_ at the University of Alberta. 
