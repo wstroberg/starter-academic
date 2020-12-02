@@ -36,8 +36,8 @@ subtitle: ""
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  # padding = ["20px", "0", "20px", "0"]
 
 ---
 ## Welcome
-Welcome to the _Computational Biosystems Lab_ at the University of Alberta. 2
+Welcome to the _Computational Biosystems Lab_ at the University of Alberta.
