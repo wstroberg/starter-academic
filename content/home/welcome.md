@@ -40,5 +40,5 @@ design:
   # padding: ["20px", "0", "20px", "0"]
 
 ---
-## Welcome
+# Welcome
 Welcome to the _Computational Biosystems Lab_ at the University of Alberta.
