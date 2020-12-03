@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
-title = "Welcome to the _Computational Biosystems Lab_ at the University of Alberta"
-subtitle = ""
+title = "Welcome to the _Computational Biosystems Lab_"
+subtitle = "at the University of Alberta"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -25,8 +25,8 @@ subtitle = ""
   # color = "navy"
   
   # Background gradient.
-  gradient_start = "DarkGreen"
-  gradient_end = "ForestGreen"
+  gradient_start = "MidnightBlue"
+  gradient_end = "Navy"
   
   # Background image.
   # image = "image.jpg"  # Name of image in `static/media/`.
