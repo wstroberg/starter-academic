@@ -8,7 +8,7 @@ active: true    # Set true/false to make page active
 title: "Meet the Team"
 
 # Order that this section appears on the page.
-weight: 120
+weight: 10
 
 content:
   # Choose which groups/teams of users to display.
