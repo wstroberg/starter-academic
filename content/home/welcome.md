@@ -52,4 +52,4 @@ subtitle = "at the University of Alberta"
 
 We invesitage questions in cell biology, physiology and bioengineering using a range of computational and theoretical techniques. Our focus is on addressing scientific and engineering questions. Often, this requires the development of new methods for simulating complex systems across disparate length and time scales. More detailed descriptions of our research can be found [here]({{< ref "#projects" >}}).
 
-Information about our research team can be found here. If you are interested in joining the Computational BioSystems Lab, more information can be found here.
+Information about our research team can be found [here]({{< ref "#people" >}}). If you are interested in joining the Computational BioSystems Lab, more information can be found [here]({{< ref "#contact" >}}).
