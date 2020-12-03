@@ -20,7 +20,7 @@ subtitle = "to the _Computational Biosystems Lab_ at the University of Alberta"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  background = "navy"
+  color = "navy"
   
   # Background gradient.
   # gradient_start: "DarkGreen"
