@@ -20,7 +20,7 @@ design:
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color: "navy"
+  background.color: "navy"
   
   # Background gradient.
   # gradient_start: "DarkGreen"
