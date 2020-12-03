@@ -1,18 +1,18 @@
----
-widget: "blank"
-headless: true
-active: true  # Activate this widget? true/false
-weight: 15  # Order that this section will appear.
++++
+widget = "blank"
+headless = true
+active = true  # Activate this widget? true/false
+weight = 15  # Order that this section will appear.
 
-title: "Welcome..."
-subtitle: "to the _Computational Biosystems Lab_ at the University of Alberta"
+title = "Welcome..."
+subtitle = "to the _Computational Biosystems Lab_ at the University of Alberta"
 
-# [design]
-design:
+[design]
+#design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: "1"
+  columns = "1"
 
-# [design.background]
+ [design.background]
 
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -20,7 +20,7 @@ design:
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  background.color: "navy"
+  background = "navy"
   
   # Background gradient.
   # gradient_start: "DarkGreen"
@@ -40,6 +40,6 @@ design:
   # Customize the section spacing. Order is top, right, bottom, left.
   # padding: ["20px", "0", "20px", "0"]
 
----
++++
 
 We invesitage questions in cell biology and physiology using a range of computational and theoretical techniques.
