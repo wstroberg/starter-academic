@@ -4,8 +4,8 @@ headless: true
 active: true  # Activate this widget? true/false
 weight: 15  # Order that this section will appear.
 
-title: "Computational Biosystems Lab"
-subtitle: ""
+title: "Welcome..."
+subtitle: "to the _Computational Biosystems Lab_ at the University of Alberta"
 
 # [design]
 design:
@@ -13,13 +13,14 @@ design:
   columns: "1"
 
 # [design.background]
+
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  # color: "navy"
+  color: "navy"
   
   # Background gradient.
   # gradient_start: "DarkGreen"
@@ -40,5 +41,5 @@ design:
   # padding: ["20px", "0", "20px", "0"]
 
 ---
-# Welcome
-Welcome to the _Computational Biosystems Lab_ at the University of Alberta.
+
+We invesitage questions in cell biology and physiology using a range of computational and theoretical techniques.
