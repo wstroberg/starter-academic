@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "List of all publications by the Computational BioSystems Lab"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
