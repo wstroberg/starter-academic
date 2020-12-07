@@ -14,6 +14,6 @@ image = ""
 caption = ""
 +++
 Reprints for most publications are available electronically. If you cannot obtain a particular offprint 
-and would like to receive it, please contact [Dr. Schnell](../#contact) the reference and we will send you 
-a copy. You can also visit our [Cover Featured Publications](../#featured) page. 
+and would like to receive it, please contact [Dr. Stroberg](../#contact) we will send you 
+a copy.
  
